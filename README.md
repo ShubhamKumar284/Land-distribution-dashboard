@@ -1,5 +1,5 @@
-🌍 Land Use Statistics: Classification of Area
-Data Analysis Project (INT217)
+**🌍 **Land Use Statistics: Classification of Area
+Data Analysis Project** **
 
 Shubham Kumar
 Lovely Professional University
